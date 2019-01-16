@@ -9,3 +9,6 @@ This project is based on another repo, Mob41 java, that you can find on Ev3dev.o
 
 #### CURRENTLY
 Working on it but not full time, so it has to be completed, and refactored, this project is made for a university exam. 
+
+#### INSTALLATION
+I personally use IntelliJ Idea from JetBrains, so this instructions are based on it.
